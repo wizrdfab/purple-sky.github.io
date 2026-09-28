@@ -1,0 +1,29 @@
+{
+  "siteUrl": "https://www.purple-sky.online",
+  "privyAppId": "",
+  "privyClientId": "",
+  "apiBase": "https://api.purple-sky.online",
+  "solanaRpc": "",
+  "mode": "waitlist",
+  "termsVersion": "2026-09-28-draft",
+  "allowDemo": true,
+  "defaults": {
+    "feeMinPct": 10,
+    "feeMaxPct": 50,
+    "periodDays": [3, 7],
+    "perPersonMinSol": 0.1,
+    "perPersonMaxSol": 0.5,
+    "totalCapSol": 5
+  },
+  "contact": {
+    "email": "contact@purple-sky.online",
+    "telegram": "https://t.me/PurpleSkymm",
+    "x": "https://x.com/Fabb_998"
+  },
+  "company": {
+    "name": "",
+    "rut": "",
+    "address": "",
+    "representative": ""
+  }
+}

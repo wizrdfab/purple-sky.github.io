@@ -1,0 +1,16 @@
+node_modules/
+dist/
+test-results/
+playwright-report/
+*.local
+.DS_Store
+docs/screens/
+private/
+# Keys and secrets never belong here: this repository is public.
+.env
+.env.*
+*.pem
+*.key
+*keypair*.json
+id.json
+*secret*
