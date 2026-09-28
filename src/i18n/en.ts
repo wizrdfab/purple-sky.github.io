@@ -179,7 +179,7 @@ export const en: Dict = {
     ],
   },
   footer: {
-    rights: 'PurpleSky',
+    rights: 'PurpleSky, part of FL Org.',
     notAdvice: 'Nothing on this site is financial advice. You can lose everything you put in.',
     risks: 'Risks',
     terms: 'Terms',
