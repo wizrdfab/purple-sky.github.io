@@ -184,7 +184,7 @@ export const es = {
     ],
   },
   footer: {
-    rights: 'PurpleSky',
+    rights: 'PurpleSky, parte de FL Org.',
     notAdvice: 'Nada en este sitio es asesoría financiera. Puedes perder todo lo que pongas.',
     risks: 'Riesgos',
     terms: 'Términos',
