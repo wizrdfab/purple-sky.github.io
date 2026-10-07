@@ -160,7 +160,7 @@ export const es = {
       'Las operaciones además pagan las tarifas de la red Solana y del exchange. Ya están descontadas en los resultados de arriba.',
     causesTitle: 'Causas de la naturaleza',
     causes:
-      'Parte de las comisiones apoya causas de la naturaleza. Antes de abrir a otras personas publicaremos aquí las ' +
+      'Lo que se obtenga se usará para cumplir la misión del beneficiar a la naturaleza y la humanidad. Antes de abrir a otras personas publicaremos aquí las ' +
       'causas, la proporción de cada comisión que reciben y cada donación con su transacción.',
   },
   ideas: {
@@ -176,7 +176,7 @@ export const es = {
     title: 'Quiénes somos',
     founder:
       'PurpleSky es el proyecto de una persona en Chile: un trader con miles de horas de experiencia en mercados, ' +
-      'que sigue la tecnología blockchain desde sus comienzos. Lo opera una SpA chilena; sus datos están en los términos.',
+      'que sigue la tecnología blockchain desde sus comienzos. Lo operará una fundación sin ánimos de lucro; sus datos están en los términos.',
     contact: 'Escríbenos',
     builtTitle: 'Cómo se construyó',
     built: [
