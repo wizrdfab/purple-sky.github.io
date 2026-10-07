@@ -155,7 +155,7 @@ export const en: Dict = {
     costs: "Trades also pay Solana's network fees and the exchange's. They are already deducted in the results above.",
     causesTitle: 'Nature causes',
     causes:
-      'Part of the fees supports nature causes. Before opening to other people we will publish here the causes, the ' +
+      'All proceedings go to nature and human related missions. Before opening to other people we will publish here the causes, the ' +
       'share of each fee they receive, and every donation with its transaction.',
   },
   ideas: {
@@ -171,7 +171,7 @@ export const en: Dict = {
     title: 'About',
     founder:
       "PurpleSky is one person's project in Chile: a trader with thousands of hours of market experience, who has " +
-      'followed blockchain technology since its early days. A Chilean SpA runs it; its details are in the terms.',
+      'followed blockchain technology since its early days. A non-profit organization is planned to run it; its details are in the terms.',
     contact: 'Write to us',
     builtTitle: 'How it was built',
     built: [
@@ -284,7 +284,7 @@ export const en: Dict = {
       days: (k: number) => `${k} days`,
       fee: 'Your fee on the profit',
       feeHelp: (min: number) => `At least ${min}%. Charged only if the period ends with a profit.`,
-      hours: 'The trader buys only during its trading hours. Outside them, your wallet waits.',
+       hours: 'The trader buys only during its trading hours. Outside them, your wallet waits.',
       continue: 'Continue',
       back: 'Back',
     },
@@ -309,7 +309,7 @@ export const en: Dict = {
       ends: (when: string) => `Ends: ${when}`,
       endedAt: (when: string) => `Ended: ${when}`,
       started: 'At the start',
-      now: 'Now',
+      now: 'Now',no
       result: 'Result',
       fee: 'Chosen fee',
       open: 'Open positions',
