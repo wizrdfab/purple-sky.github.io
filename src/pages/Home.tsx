@@ -204,6 +204,11 @@ export default function Home() {
             <Icon name="x-logo" /> X
           </a>
         </p>
+        <p>
+          <a href={`/pitch.html#${lang}`}>
+            {lang === 'es' ? 'Presentación para inversores y aliados' : 'Overview for investors and partners'}
+          </a>
+        </p>
         <h3>{t.about.builtTitle}</h3>
         <ul className="bullets">
           {t.about.built.map((i) => (
