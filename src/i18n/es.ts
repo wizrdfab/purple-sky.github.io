@@ -36,9 +36,11 @@ export const es = {
     ctaWaitlist: 'Inscribirme en la lista',
     ctaRisks: 'Leer los riesgos primero',
     waitlistNote:
-      'Todavía no abrimos a otras personas: primero, la revisión de un abogado y un periodo de prueba limpio con los fondos del ' +
-      'fundador. Puedes inscribirte y te avisaremos.',
-    openNote: 'Abierto, con límites: el total entre todas las personas es limitado y sube solo si los resultados en vivo acompañan.',
+      'La prueba con los fondos del fundador fue exitosa. ' +
+      'Por ahora abrimos solo a personas invitadas en privado. Puedes inscribirte y te avisaremos.',
+    openNote:
+      'La prueba con los fondos del fundador fue exitosa. ' +
+      'Abrimos paso a paso, empezando por personas invitadas en privado.',
   },
   risk: {
     title: 'Antes de nada: los riesgos',
