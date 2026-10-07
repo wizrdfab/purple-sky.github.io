@@ -37,9 +37,11 @@ export const en: Dict = {
     ctaWaitlist: 'Join the waitlist',
     ctaRisks: 'Read the risks first',
     waitlistNote:
-      "We are not open to other people yet: first a lawyer's review, and a clean test run on the founder's own " +
-      'funds. You can sign up and we will let you know.',
-    openNote: 'Open, with limits: the total across everyone is capped, and it rises only if the live results hold up.',
+      "The test run on the founder's own funds was successful. " +
+      'For now we open only to people invited privately. You can sign up and we will let you know.',
+    openNote:
+      "The test run on the founder's own funds was successful. " +
+      'We are opening step by step, starting with people invited privately.',
   },
   risk: {
     title: 'First of all: the risks',
