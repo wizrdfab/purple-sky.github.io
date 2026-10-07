@@ -309,7 +309,7 @@ export const en: Dict = {
       ends: (when: string) => `Ends: ${when}`,
       endedAt: (when: string) => `Ended: ${when}`,
       started: 'At the start',
-      now: 'Now',no
+      now: 'Now',
       result: 'Result',
       fee: 'Chosen fee',
       open: 'Open positions',
