@@ -37,7 +37,7 @@ export const es = {
     ctaRisks: 'Leer los riesgos primero',
     waitlistNote:
       'La prueba con los fondos del fundador fue exitosa. ' +
-      'Por ahora abrimos solo a personas invitadas en privado. Puedes inscribirte y te avisaremos.',
+      'Por ahora abrimos solo a personas que han sido invitadas personalmente. Puedes inscribirte y te avisaremos cuando estemos listos.',
     openNote:
       'La prueba con los fondos del fundador fue exitosa. ' +
       'Abrimos paso a paso, empezando por personas invitadas en privado.',
